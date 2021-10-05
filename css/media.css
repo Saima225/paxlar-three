@@ -1,0 +1,946 @@
+@media(max-width:575px) and (min-width:0px){
+    .btn-join{
+        display: none;
+    }
+    .large-btn-join{
+   display: inherit;
+}
+.top-header{
+    display: none;
+
+}
+.navbar-light .navbar-nav .nav-link{
+    margin-left: 0;
+    display: inline-block;
+}
+.navbar-nav{
+    text-align: center;
+}
+.banner h1{
+    font-size: 25px;
+}
+.count-item h5{
+    font-size: 16px;
+}
+.count-item h6{
+    font-size: 10px;
+}
+.iphone6{
+    display: none;
+}
+.transaction-section ul li h2{
+    font-size: 28px;
+}
+.transaction-section ul li h5{
+    font-size: 10px;
+}
+.featured h1{
+    font-size: 16px;
+    text-align: center;
+}
+.featured h1::before{
+    left: 50%;
+}
+.featured h1::after{
+    right: 50%;
+}
+.support img{
+    width: 25%;
+}
+.heading h2{
+    font-size: 18px;
+}
+.heading p{
+font-size: 13px;
+}
+.safe{
+    left: 24%;
+}
+.safe p{
+    margin-top: 12px;
+    font-size: 12px;
+}
+.mobile{
+    top: 55%;
+}
+.mobile p{
+    margin-top: 12px;
+    font-size: 12px; 
+}
+.wallet{
+    left: 25%;
+    bottom: -5%;
+    transform: translate(-34%, -8%);
+}
+.wallet p{
+    margin-top: 12px;
+    font-size: 12px;
+}
+.Experts{
+    right: 14%;
+}
+.Experts p{
+    margin-top: 12px;
+    font-size: 12px;
+}
+.Exchange{
+    top: 56%;
+    right: 14%;
+    transform: translate(-20%, -50%);
+}
+.Exchange p{
+    margin-top: 12px;
+    font-size: 12px;
+}
+.Buys {
+    
+    right: 15%;
+    bottom: -5%;
+    transform: translate(-30%, -8%);
+}
+.Buys p{
+    margin-top: 12px;
+    font-size: 12px;
+}
+
+.team-members h5 {
+   
+    margin-top: 15px;
+  
+    font-size: 18px;
+}
+
+.team-members h6 {
+        
+        margin-top: 4px;
+       
+        font-size: 12px;
+    }
+    .form-section h2{
+        font-size: 20px;
+    }
+    .form-section h2::before{
+        left: 48%;
+    }
+    .form-section h2::after{
+        right: 48%;
+    }
+    .form-section:hover h2::before{
+        width: 6%;
+    }
+    .form-section:hover h2::after{
+        width: 6%;
+    }
+    .blogs-section h2{
+        font-size: 20px;
+    }
+    .blogs-section p{
+        font-size: 13px;
+    }
+    .blog-one{
+        
+        margin-bottom: 20px;
+    }
+    .investment-section h1{
+        font-size: 18px;
+    }
+    .investment-section h1::before{
+        left: 48%;
+    }
+    .investment-section:hover h1::before{
+        width: 6%;
+    }
+    .investment-section h1::after{
+        right: 48%;
+    }
+    .investment-section:hover h1::after{
+        width: 6%;
+    }
+    .investment-section p{
+        width: 100%;
+        margin: auto;
+        margin-top: 40px;
+    }
+  
+    .investor{
+        width: 15%;
+    }
+    .investor .quote{
+        display: none;
+    }
+    .investor-detail h5{
+        font-weight: 600;
+    font-size: 16px;
+    margin: 0;
+    margin-top: 18px;
+    }
+    .investor-detail h6{
+        margin-top: 8px;
+        font-size: 12px;
+    }
+    .paxlar-logo{
+        margin-bottom: 20px;
+    }
+    .paxlar ul{
+        width: 75%;
+        margin-bottom: 20px;
+    }
+    .contact-section h2{
+     margin-left: 0;
+     margin-bottom: 40px;
+    }
+    .contact-section ul{
+        padding: 0;
+    }
+    .contact-section ul li{
+        justify-content: start;
+    }
+    .quick-section h2{
+        margin-left: 0;
+        margin-bottom: 35px;
+    }
+    .quick-section ul{
+        padding: 0;
+    }
+    .newsletter-section:hover .quick-section h2::before{
+        width: 12%;
+    }
+    .newsletter-section:hover .contact-section h2::before{
+        width: 12%;
+    }
+    .right-section h2{
+        margin-bottom: 40px;
+    }
+    .newsletter-section:hover .right-section h2::before{
+        width: 12%;
+    }
+    .right-section input{
+        width: 90%;
+    }
+    .right-section i{
+       left: 206px;
+    }
+    footer p{
+        text-align: center;
+    }
+    footer ul{
+        justify-content: center;
+
+    flex-wrap: wrap;
+    margin-left: -61px;
+    }
+
+}
+@media(max-width:560px) and (min-width:0px){
+    .contact-section h2{
+        font-size: 16px;
+    }
+
+    .paxlar-logo img{
+        width: 100%;
+    }
+    .paxlar p{
+        font-size: 13px;
+    }
+    .quick-section h2{
+        font-size: 16px;
+    }
+    .right-section h2{
+        font-size: 16px;
+    }
+    .contact-section ul li .list p{
+        font-size: 13px;
+    }
+    .quick-section ul li{
+        font-size: 13px;
+    }
+    .right-section p{
+        font-size: 13px;
+    }
+    .right-section i{
+        left: 190px;
+    }
+}
+@media(max-width:561px) and (min-width:0px){
+    .right-section i{
+        left: 200px;
+    }
+}
+
+@media(max-width:547px) and (min-width:0px){
+    .right-section i{
+        left: 190px;
+    }
+}
+@media(max-width:500px) and (min-width:0px){
+    .right-section input{
+        width: 94%;
+    }
+}
+@media(max-width:550px) and (min-width:500px){
+    .investment-section p{
+        width: 50%;
+    }
+}
+
+@media(max-width:512px) and (min-width:0px){
+    .Experts{
+        right: 12%;
+    }
+    .Exchange{
+        right: 12%;
+    }
+    .Buys{
+        right: 13%;
+    }
+
+}
+@media(max-width:512px) and (min-width:0px){
+    .paxlar ul{
+        width: 90%;
+    }
+}
+@media(max-width:499px) and (min-width:460px){
+    .investment-section p{
+        width: 100%;
+        margin: auto;
+        margin-top: 40px;
+    }
+}
+@media(max-width:459px) and (min-width:0px){
+    .investment-section p{
+        width: 100%;
+        margin: auto;
+        margin-top: 40px;
+    }
+}
+@media(max-width:440px) and (min-width:0px){
+    .investment-section p{
+        width: 100%;
+        margin: auto;
+        margin-top: 40px;
+    }
+}
+@media(max-width:490px) and (min-width:0px){
+    .banner h1{
+        font-size: 20px;
+    }
+}
+@media(max-width:470px) and (min-width:0px){
+    .large-btn-join{
+        margin-left: -15px;
+     }
+     .instruction-item i{
+font-size: 50px;
+     }
+     .heading h2{
+         font-size: 16px;
+     }
+     .transaction-section ul{
+         flex-wrap: wrap;
+     }
+     .transaction-section ul li{
+        margin-bottom: 5px;
+        width: 35%;
+     }
+     .safe .icon{
+         height: 45px;
+         width: 45px;
+     }
+     .mobile .mobile-icon{
+        height: 45px;
+        width: 45px;
+     }
+     .wallet .wallet-icon{
+        height: 45px;
+        width: 45px;
+     }
+     .Experts .Experts-icon{
+        height: 45px;
+        width: 45px;
+     }
+     .Exchange .Exchange-icon{
+        height: 45px;
+        width: 45px;
+     }
+     .Buys .Buys-icon{
+        height: 45px;
+        width: 45px;
+     }
+     .blog-one ul li i{
+        height: 35px;
+        width: 35px;
+        right: 75px;
+     }
+     .paxlar ul{
+      width: 110%;
+    }
+}
+@media(max-width:450px) and (min-width:0px){
+    .Experts{
+        right: 11%;
+    }
+    .Exchange{
+        right: 11%;
+    }
+    .Buys{
+        right: 12%;
+    }
+    .investment-section p{
+        width: 100%;
+        margin: auto;
+        margin-top: 40px;
+    }
+    .paxlar ul{
+        width: 110%;
+      }
+}
+@media(max-width:435px) and (min-width:0px){
+    .Experts{
+        right: 10%;
+    }
+    .Exchange{
+        right: 10%;
+    }
+    .Buys{
+        right: 11%;
+    }
+    .investment-section p{
+        width: 100%;
+        margin: auto;
+        margin-top: 40px;
+    }
+}
+@media(max-width:430px) and (min-width:0px){
+    .large-btn-join{
+        margin-left:-30px;
+        padding: 6px 15px;
+    font-size: 11px;
+     }
+ 
+}
+@media(max-width:499px) and (min-width:0px){
+    .right-section i{
+        display: none;
+    }
+}
+@media(max-width:400px) and (min-width:0px){
+    .instruction-item p{
+        font-size: 13px;
+    }
+    .Experts{
+        right: 9%;
+    }
+    .Exchange{
+        right: 9%;
+    }
+    .Buys{
+        right: 10%;
+    }
+    .safe .icon{
+        height: 40px;
+        width: 40px;
+    }
+    .mobile .mobile-icon{
+        height: 40px;
+        width: 40px;
+    }
+    .wallet .wallet-icon{
+        height: 40px;
+        width: 40px;
+    }
+    .Experts .Experts-icon{
+        height: 40px;
+        width: 40px;
+    }
+    .Exchange .Exchange-icon{
+        height: 40px;
+        width: 40px;
+    }
+    .Buys .Buys-icon{
+        height: 40px;
+        width: 40px;
+    }
+    .investment-section p{
+        width: 100%;
+        margin: auto;
+        margin-top: 40px;
+    }
+    
+}
+@media(max-width:390px) and (min-width:0px){
+    .navbar-brand img{
+        width: 70%;
+    }
+   
+}   
+
+@media(max-width:398px) and (min-width:0px){    
+    .large-btn-join{
+        margin-right: -4px;
+     
+     }
+     .investment-section p{
+        width: 100%;
+        margin: auto;
+        margin-top: 40px;
+    }
+    
+    .navbar-toggler-icon{
+        width: 0.90em;
+        height: 0.90em;
+    }
+    .investment-section p{
+        width: 100%;
+        margin: auto;
+        margin-top: 40px;
+    }
+    
+}
+@media(max-width:370px) and (min-width:0px){
+    .instruction-item i{
+        margin-bottom: 10px;
+    }
+    .instruction-item h4{
+        margin-bottom: 10px;
+    }
+    .Experts{
+        right: 8%;
+    }
+    .Exchange{
+        right: 8%;
+    }
+    .Buys{
+        right: 9%;
+    }
+   
+
+}
+@media(max-width:361px) and (min-width:0px){
+    .support img{
+        width: 28%;
+    }
+    .safe{
+        left: 27%;
+    }
+    .mobile{
+        left: 15%;
+    }
+    .wallet{
+        left: 30%;
+        bottom: -4%;
+    }
+    .Experts{
+        right: 10%;
+    }
+    .Exchange{
+        right: 0%;
+    }
+    .Buys{
+        right: 12%;
+        bottom: -4%;
+    }
+   
+
+
+}
+
+@media(max-width:360px) and (min-width:0px){
+   
+    .large-btn-join{
+        padding: 7px 18px;
+        margin-left: 6px;
+     
+     }
+     .featured ul li h3{
+         font-size: 15px;
+     }
+     .featured ul li p{
+         font-size: 13px;
+     }
+     .support img{
+        width: 28%;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .member-img{
+        width: 100%;
+    }
+    .blog-one ul li i{
+        display: none;
+    }
+    .blog-one ul{
+        margin-left: -20px;
+    }
+    .paxlar ul{
+        width: 125%;
+      }
+      .right-section input{
+          width:100% ;
+      }
+   
+}
+@media(max-width:353px) and (min-width:0px){
+    .featured h1{
+        font-size: 15px;
+     
+    }
+    .featured ul li{
+        margin-left: 10px;
+    }
+    .li-content{
+        width: 70%;
+    }
+}
+@media(max-width:332px) and (min-width:0px){
+    .featured h1{
+       font-size: 14px; 
+    }
+    .box{
+        height: 35px;
+        width: 35px;
+    }
+    .paxlar ul{
+        width: 125%;
+      }
+   
+}
+@media(max-width:410px) and (min-width:354px){
+    .li-content{
+        width: 77%;
+    }
+}
+@media(max-width:360px) and (min-width:342px){
+
+.large-btn-join{
+    margin-left: -70px;
+}
+ }
+@media(max-width:767px) and (min-width:576px){
+    .btn-join{
+        display: none;
+    }
+    .large-btn-join{
+   display: inherit;
+}
+.top-header{
+    display: none;
+
+}
+.navbar-light .navbar-nav .nav-link{
+    margin-left: 0;
+    display: inline-block;
+}
+.navbar-nav{
+    text-align: center;
+}
+.banner h1{
+    font-size: 30px;
+}
+.iphone6{
+    display: none;
+}
+.transaction-section ul{
+    flex-wrap: wrap;
+    width: 82%;
+}
+.transaction-section ul li{
+    margin-bottom: 10px;
+}
+.transaction-section ul li h5{
+    font-size: 14px;
+}
+.support img{
+    margin-left: -32px;
+    margin-top: 15px;
+}
+.safe p{
+    margin-top: 16px;
+    font-size: 12px;
+}
+.mobile{
+    top: 54%;
+    left: 22%;
+}
+.mobile p{
+    margin-top: 16px;
+    font-size: 12px; 
+}
+.wallet{
+    bottom: 0%;
+}
+.wallet p{
+    margin-top: 16px;
+    font-size: 12px;
+
+}
+.Experts{
+    top: 11%;
+    right: 25%;
+}
+.Experts p{
+    margin-top: 16px;
+    font-size: 12px;
+}
+.Exchange{
+    top: 56%;
+    right: 18%;
+}
+.Exchange p{
+    margin-top: 16px;
+    font-size: 12px;
+}
+.Buys{
+    right: 27%;
+    bottom: -1%;
+}
+.Buys p{
+    margin-top: 16px;
+    font-size: 12px;
+}
+.blog-one{
+    margin-bottom: 15px;
+}
+.investment-section:hover h1::before{
+width: 6%;
+}
+.investment-section:hover h1::after{
+    width: 6%;
+}
+.investment-section h1::before{
+    left: 44%;
+}
+.investment-section h1::after{
+    right: 45%;
+}
+.investment-section h1{
+  margin-bottom: 40px;
+}
+.investment-section p{
+    width: 100%;
+    margin: auto;
+}
+.investor-detail{
+    margin-top: 30px;
+}
+.investor{
+    width: 20%;
+}
+.investor-detail h5{
+    margin-top: 20px;
+}
+.investor-detail h6{
+    margin-top: 10px;
+}
+.contact-section h2{
+    margin-left: 0px;
+ 
+}
+.contact-section ul{
+    padding: 0;
+}
+.quick-section h2{
+    margin-left: 0px;
+    margin-bottom: 35px;
+}
+.quick-section ul{
+    padding: 0;
+}
+.quick-section ul li{
+    justify-content: start;
+}
+.paxlar-logo {
+    width: 60%;
+   
+    margin-bottom: 35px;
+}
+footer p{
+    text-align: center;
+}
+footer ul{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+}
+
+
+@media(max-width:991px) and (min-width:768px){
+    .btn-join{
+        display: none;
+    }
+    .large-btn-join{
+   display: inherit;
+}
+.top-header{
+    display: none;
+
+}
+.navbar-light .navbar-nav .nav-link{
+    margin-left: 0;
+    display: inline-block;
+}
+.navbar-nav{
+    text-align: center;
+    margin-top: 20px;
+}
+   
+   
+    .banner h1{
+        font-size: 24px;
+    }
+    .count-item h5{
+        font-size: 18px;
+    }
+    .instruction-item i{
+        font-size: 50px;
+    }
+    .instruction-item h4{
+        font-size: 17px;
+    }
+    .instruction-item p{
+        font-size: 14px;
+    }
+    .instruction-item{
+        padding: 20px 17px;
+    }
+    .heading h2{
+        font-size: 20px;
+    }
+    .featured h1{
+        font-size: 16px;
+    }
+    .box{
+        margin-top: 18px;
+    }
+    .li-content{
+        width: 70%;
+    }
+    .featured ul li h3{
+        font-size: 15px;
+    }
+    .featured ul li p{
+        font-size: 13px;
+    }
+    .iphone6{
+        width: 32%;
+        left: 10%;
+    }
+    .support img {
+        width: 20%;
+        margin-left: -5%;
+    }
+    .safe {
+       
+        top: 10%;
+        left: 28%;
+        transform: translate(-28%, -10%);
+    }
+    .mobile {
+        
+        top: 57%;
+        left: 21%;
+        transform: translate(-21%, -56%);
+    }
+    .wallet {
+      
+        left: 31%;
+        bottom: 0%;
+        transform: translate(-31%, -8%);
+    }
+    .Experts {
+       
+        top: 10%;
+        right: 25%;
+        transform: translate(-26%, -8%);
+    }
+    .Exchange {
+    
+        top: 56%;
+        right: 19%;
+        transform: translate(-17%, -50%);
+    }
+    .Buys {
+      
+        right: 28%;
+        bottom: 0%;
+        transform: translate(-26%, -8%);
+    }
+    .blog-one ul li i{
+        height: 30px;
+        width: 30px;
+        bottom: 10px;
+        right: 70px;
+    }
+    .investment-section p{
+        width: 100%;
+        margin: auto;
+        margin-top: 30px;
+    }
+    .investor {
+        width: 17%;
+        margin: auto;
+        margin-top: 20px;
+    }
+    .paxlar ul{
+        margin-left: -38px;
+    width: auto;
+    }
+    footer p{
+        font-size: 12px;
+        margin-top: 10px;
+    }
+    .contact-section ul{
+        padding: 0;
+    }
+    .contact-section h2{
+        margin-left: 10px;
+     
+    }
+    .paxlar-logo{
+        width: 75%;
+    }
+    .quick-section h2{
+        margin-left: 0px;
+        margin-bottom: 35px;
+    }
+    .quick-section ul{
+        padding: 0;
+    }
+    .quick-section ul li{
+        justify-content: start;
+    }
+    .right-section{
+        padding: 0;
+    margin-left: -10%;
+    }
+}
+@media(max-width:1199px) and (min-width:992px){
+    .top-header p{
+        font-size: 12px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        margin-left: 15px;
+    }
+    .banner h1{
+        font-size: 30px;
+    }
+    .support img{
+        margin-left: -3%;
+    }
+    .investment-section p{
+        width: auto;
+        margin: auto;
+        margin-top: 5%;
+    }
+    .investor{
+        width: 13%;
+        margin-top: 5%;
+    }
+    footer ul li{
+        margin: auto;
+    }
+}
+@media(max-width:1399px) and (min-width:1200px){
+    
+}
